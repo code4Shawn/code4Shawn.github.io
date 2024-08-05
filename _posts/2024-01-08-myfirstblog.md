@@ -8,13 +8,17 @@ image: https://i.imgur.com/1PpLsI9.jpg
 
 # Welcome to my Space
 
-![Alt Text](https://media.licdn.com/dms/image/D4D03AQGgjY2UhSQBaA/profile-displayphoto-shrink_800_800/0/1670510662827?e=1709769600&v=beta&t=Gs1Gqsc6OmFe_4GpF3fG-hESM2xX5t4S2_w7DyjHCSA){:width="900px"height="200px"}
+![Alt Text](https://images.unsplash.com/photo-1487017159836-4e23ece2e4cf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dGVjaHxlbnwwfHwwfHx8MA%3D%3D){:width="900px"height="200px"}
 
-Hey there! 👋 Welcome to my blogging space where you're about to embark on an exciting journey of exploration and learning. I'm Norman Fwamba, your guide in the world of technology and beyond.
+Hey there! 👋 Welcome to my space, I’m Shawn, your friendly guide through the ever-evolving world of technology. With a passion for innovation and a knack for simplifying complex concepts, I aim to make tech accessible and enjoyable for everyone. Whether you’re a seasoned developer or just starting your journey, there’s something here for you.
 
-## What to Expect
+## What You’ll Find Here
 
-Here at Norman Fwamba's Blog, we're passionate about sharing knowledge and insights on a wide range of topics, with a special focus on technology. Whether you're a tech enthusiast, a curious mind, or just looking to expand your horizons, you're in the right place.
+At Shawn’s Tech Haven, you’ll discover a treasure trove of resources that cover everything from the latest trends in software development to insightful tutorials on productivity tools and discussions on anything worth discussing. My goal is to empower you with knowledge that enhances your skills and fuels your creativity.
+
+## Join the Community 
+
+I believe that technology thrives on collaboration and shared ideas. That’s why I encourage you to engage with the content, share your thoughts, and connect with fellow tech enthusiasts. Together, we can explore new horizons and push the boundaries of what’s possible.
 
 ### Topics Covered
 
@@ -43,11 +47,10 @@ Ready to begin your learning journey? Check out some of our popular posts to get
 
 Have suggestions, feedback, or specific topics you'd like us to cover? Don't hesitate to reach out:
 
-- 📧 Email: [normankhisa106@gmail.com](mailto:normankhisa106@gmail.com)
-- 🐦 Twitter: [@normansmanza](https://twitter.com/normansmanza)
-- 📘 Facebook: [norman.khisa](https://www.facebook.com/norman.khisa)
-- 📸 Instagram: [norman_smanza](https://www.instagram.com/norman_smanza/)
-- 📱 WhatsApp: [+254742201184](https://wa.me/+254742201184)
+- 📧 Email: [okelo2014@gmail.com](mailto:okelo2014@gmail.com)
+- 🐦 Twitter: [@KnightLord_](https://twitter.com/KnightLord_)
+- 📸 Instagram: [i_am.shawn_](https://www.instagram.com/i_am.shawn_/)
+- 📱 WhatsApp: [+254743198855](https://wa.me/+254743198855)
 
 
 Thank you for   stopping by, and let the learning adventure begin! 🚀
@@ -57,4 +60,4 @@ Thank you for   stopping by, and let the learning adventure begin! 🚀
 [![f9w2rkj4rw](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/f9w2rkj4rw
 )
 
-Thank you for being a part of this journey. Your encouragement means the world and keeps the passion alive. Here's to more learning and growth together!
+Thank you for being a part of this journey. Keeps the flame alive. Here's to more learning and growth together!
