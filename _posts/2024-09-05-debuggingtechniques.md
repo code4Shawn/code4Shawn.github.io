@@ -2,7 +2,7 @@
 title: Debugging Techniques in C# and .NET
 categories: [Technology, C#, .NET]
 tags: [c# debugging]
-image: https://i.imgur.com/1PpLsI9.jpg
+image: https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0
 ---
 
 Debugging is a critical part of software development, allowing developers to identify, analyze, and fix issues in their code. In C# and .NET, there are several effective debugging techniques and tools available. This presentation will cover key techniques, including using Visual Studio’s debugger, leveraging logging and tracing, and employing unit testing.
