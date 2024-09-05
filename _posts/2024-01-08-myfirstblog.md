@@ -14,7 +14,7 @@ Hey there! 👋 Welcome to my space, I’m Shawn, your friendly guide through th
 
 ## What You’ll Find Here
 
-At Shawn’s Tech Haven, you’ll discover a treasure trove of resources that cover everything from the latest trends in software development to insightful tutorials on productivity tools and discussions on anything worth discussing. My goal is to empower you with knowledge that enhances your skills and fuels your creativity.
+At Shawn’s Haven, you’ll discover a treasure trove of resources that cover everything from the latest trends in software development to insightful tutorials on productivity tools and discussions on anything worth discussing. My goal is to empower you with knowledge that enhances your skills and fuels your creativity.
 
 ## Join the Community 
 
