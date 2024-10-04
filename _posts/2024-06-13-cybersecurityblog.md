@@ -2,7 +2,7 @@
 title: Safeguarding the Digital Frontier
 categories: [Technology, Cyber Security]
 tags: [cybersecurity]
-image: https://i.imgur.com/1PpLsI9.jpg
+image: https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 In today's interconnected world, where data flows freely across networks and devices, ensuring the security of digital assets has become paramount. Cybersecurity stands at the forefront of this battle, protecting businesses, governments, and individuals from malicious actors seeking to exploit vulnerabilities for personal gain or disruption.
