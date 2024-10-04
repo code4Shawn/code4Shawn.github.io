@@ -2,10 +2,8 @@
 title: AI Advances and ChatGPT in the Software Development World
 categories: [Technology, AI, .ChatGPT]
 tags: [AI, ChatGPT]
-image: https://plus.unsplash.com/premium_photo-1682124651258-410b25fa9dc0?q=80&w=1921&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+image: https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
-
-![AI](https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 The software development world has witnessed a significant transformation with the advent of Artificial Intelligence (AI) and its applications. One of the most notable AI tools that has gained popularity in recent times is ChatGPT. In this article, we will explore the AI advances and the role of ChatGPT in the software development world.
 
