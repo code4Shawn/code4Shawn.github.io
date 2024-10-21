@@ -1,5 +1,6 @@
 ---
 title: AI Advances and ChatGPT in the Software Development World
+<link rel="canonical" href="https://www.innova.co.ke/ai-advances-and-chatgpt-in-the-software-development-world/" />
 categories: [Technology, AI, .ChatGPT]
 tags: [AI, ChatGPT]
 image: https://plus.unsplash.com/premium_photo-1683121710572-7723bd2e235d?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
