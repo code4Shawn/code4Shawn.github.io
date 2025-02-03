@@ -5,7 +5,7 @@ tags: [C#, Debugging]
 image: https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=600
 ---
 
-# Debugging Technique: Watch Windows in C#
+# Debugging Techniques: Watch Windows in C#
 
 ## 1. Introduction to Watch Windows
 
