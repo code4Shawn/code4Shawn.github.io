@@ -4,6 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+### Hey There! I'm Shawn
 Welcome to my corner of the web! I'm a passionate developer and technology enthusiast who loves to explore and create innovative solutions.
 
 ## Professional Journey
