@@ -2,7 +2,7 @@
 title: Debugging Techniques: Logging and Tracing in C#
 categories: [Technology, AI, .ChatGPT]
 tags: [AI, ChatGPT]
-image: https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg
+image: https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
 ---
 
 ## Introduction to Logging and Tracing in Debugging
