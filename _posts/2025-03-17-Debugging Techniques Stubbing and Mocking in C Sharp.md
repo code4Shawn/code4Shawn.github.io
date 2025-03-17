@@ -5,7 +5,6 @@ tags: [C#, Debugging]
 image: https://images.unsplash.com/photo-1483058712412-4245e9b90334?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGJ1c2luZXNzJTIwdGVjaG5vbG9neXxlbnwwfHwwfHx8MA%3D%3D
 ---
 
-# Understanding Mocking and Stubbing in .NET and C#
 When it comes to unit testing in .NET and C#, two essential concepts that developers often encounter are *mocking* and *stubbing*. Both techniques are used to isolate the code being tested, but they serve different purposes. In this blog post, we’ll explore what mocking and stubbing are, when to use them, and provide code examples to illustrate their usage.
 
 ## What is Stubbing?
