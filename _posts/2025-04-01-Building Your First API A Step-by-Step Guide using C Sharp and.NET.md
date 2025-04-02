@@ -3,7 +3,7 @@ title: Building Your First API: A Step-by-Step Guide using C#
 categories: [Technology, API's, C#]
 tags: [C#, API's]
 author: Shawn Ng'iela
-image: /Images/images.jpg
+image: https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHRlY2hub2xvZ3l8ZW58MHx8MHx8fDA%3D
 ---
 
 APIs (Application Programming Interfaces) are the backbone of modern software development, enabling applications to communicate with each other.
