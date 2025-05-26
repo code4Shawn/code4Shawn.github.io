@@ -194,5 +194,5 @@ Thank you for stopping by, and let the learning adventure begin! 🚀
 
 ### Appreciation:
 
-[![Shawn](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/f9w2rkj4rw
+[![Shawn](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://ko-fi.com/i_am_shawn
 )
