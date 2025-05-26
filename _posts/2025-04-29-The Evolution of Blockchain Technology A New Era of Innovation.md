@@ -3,7 +3,7 @@ title: The Evolution of Blockchain Technology - A New Era of Innovation
 categories: [Technology, BlockChain]
 tags: [BlockChain]
 author: Shawn Ng'iela
-image: 
+image: Images/Blockchain.jpg
 ---
 
 Blockchain technology has emerged as one of the most transformative innovations of the 21st century. Originally developed as the underlying framework for Bitcoin, blockchain has evolved far beyond its initial purpose, paving the way for a myriad of applications across various industries. In this blog, we’ll explore the advancements in blockchain technology and its potential to reshape our world.
