@@ -1,5 +1,5 @@
 ---
-title: Building Your First API: A Step-by-Step Guide using C#
+title: Building Your First API. A Step-by-Step Guide using C#
 categories: [Technology, API's, C#]
 tags: [C#, API's]
 author: Shawn Ng'iela
