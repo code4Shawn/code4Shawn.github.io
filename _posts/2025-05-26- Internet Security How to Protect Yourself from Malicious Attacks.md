@@ -3,7 +3,7 @@ title: Internet Security: How to Protect Yourself from Malicious Attacks
 categories: [CyberSecurity, Internet]
 tags: [Technology, Security]
 author: Shawn Ng'iela
-image: Images/cybersecurity.jpg
+image: /Images/cybersecurity.jpg
 ---
 
 In today’s hyper-connected world, internet security is no longer a luxury, it's a necessity. From phishing emails to ransomware attacks, malicious actors are constantly developing new tactics to exploit unsuspecting users. Whether you’re working remotely, shopping online, or just browsing your favorite social media platforms, taking proactive steps to protect yourself is critical.
