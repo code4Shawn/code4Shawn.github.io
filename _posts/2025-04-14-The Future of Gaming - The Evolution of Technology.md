@@ -1,5 +1,5 @@
 ---
-title: The Future of Gaming: The Evolution of Technology
+title: The Future of Gaming - The Evolution of Technology
 categories: [Technology, Gaming, AI]
 tags: [Gaming, PlayStation]
 author: Shawn Ng'iela

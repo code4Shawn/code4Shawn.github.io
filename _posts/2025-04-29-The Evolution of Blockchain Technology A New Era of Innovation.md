@@ -1,5 +1,5 @@
 ---
-title: The Evolution of Blockchain Technology: A New Era of Innovation
+title: The Evolution of Blockchain Technology - A New Era of Innovation
 categories: [Technology, BlockChain]
 tags: [BlockChain]
 author: Shawn Ng'iela

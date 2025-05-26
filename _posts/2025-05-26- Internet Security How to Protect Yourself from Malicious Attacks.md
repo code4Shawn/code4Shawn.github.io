@@ -1,5 +1,5 @@
 ---
-title: Internet Security: How to Protect Yourself from Malicious Attacks
+title: Internet Security - How to Protect Yourself from Malicious Attacks
 categories: [CyberSecurity, Internet]
 tags: [Technology, Security]
 author: Shawn Ng'iela

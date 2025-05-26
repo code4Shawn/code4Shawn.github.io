@@ -1,5 +1,5 @@
 ---
-title: The Mind-Bending Effects of Time Travel: Paradoxes and Possibilities
+title: The Mind-Bending Effects of Time Travel - Paradoxes and Possibilities
 categories: [Philosophy, Science]
 tags: [Science, Time]
 author: Shawn Ng'iela
