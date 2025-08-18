@@ -3,7 +3,7 @@ title: Understanding the Blazor Framework - Common Issues and Solutions
 categories: [Blazor, Internet]
 tags: [Technology, JavaScript]
 author: Shawn Ng'iela
-image: /Images/Blazor.jepg
+image: /Images/blazor.png
 ---
 
 Blazor is a powerful framework developed by Microsoft that allows developers to build interactive web applications using C# instead of JavaScript. While it offers many advantages, users often encounter various challenges when working with Blazor. In this blog, we will explore some common issues faced by Blazor developers and provide practical solutions to help you overcome them.
