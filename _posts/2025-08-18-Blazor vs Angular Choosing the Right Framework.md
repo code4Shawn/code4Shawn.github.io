@@ -1,5 +1,5 @@
 ---
-title: Blazor vs Angular: Choosing the Right Framework
+title: Blazor vs Angular - Choosing the Right Framework
 categories: [Web Development, Frameworks]
 tags: [blazor, angular, javascript, c#, technology]
 author: Shawn Ng'iela
