@@ -3,7 +3,7 @@ title: Software as a Service (SaaS) and Cloud Computing
 categories: [Web Development, Software]
 tags: [SaaS, Cloud Computing, technology]
 author: Shawn Ng'iela
-image: /Images/
+image: /Images/Saas.jpg
 ---
 
 Over the past two decades, businesses have increasingly moved away from traditional on-premise software toward cloud-based computing services. Instead of installing software on individual computers and maintaining costly infrastructure, organizations now access powerful applications and computing resources through the internet.
