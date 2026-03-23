@@ -2,7 +2,6 @@
 title: AI-Enabled Development- The Future of Building Software
 categories: [Artificial Intelligence, Software Development]
 tags: [AI, technology]
-author: Shawn Ng'iela
 image: /Images/AI.jpg
 ---
 

@@ -2,7 +2,6 @@
 title: How to Dockerize Your Application and Deploy It
 categories: [Coding, Docker Development, Best Practices]
 tags: [Development, Best Practices, technology, Docker]
-author: Shawn Ng'iela
 image: /Images/docker.jpg
 ---
 

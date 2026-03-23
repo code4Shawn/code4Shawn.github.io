@@ -2,7 +2,6 @@
 title: Blazor and APIs - Consuming REST APIs and Using gRPC with Blazor
 categories: [Technology, Blazor, C#]
 tags: [C#, API]
-author: Shawn Ng'iela
 image: /Images/blazorAPI.png
 ---
 

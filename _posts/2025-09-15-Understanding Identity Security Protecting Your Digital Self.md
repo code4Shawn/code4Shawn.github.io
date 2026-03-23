@@ -2,7 +2,6 @@
 title: Understanding Identity Security - Protecting Your Digital Self
 categories: [Identity Security, CyberSecurity]
 tags: [security, internet, technology]
-author: Shawn Ng'iela
 image: /Images/IdentitySecurity.jpg
 ---
 

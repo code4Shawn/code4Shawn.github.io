@@ -2,7 +2,6 @@
 title: Visual Studio Tips and Tricks for Efficient Coding Development
 categories: [Coding, Development, Best Practices]
 tags: [Development, Best Practices, technology]
-author: Shawn Ng'iela
 image: /Images/BestPractices.jpg
 ---
 

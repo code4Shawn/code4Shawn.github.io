@@ -2,7 +2,6 @@
 title: Understanding the Blazor Framework - Common Issues and Solutions
 categories: [Blazor, Internet]
 tags: [Technology, JavaScript]
-author: Shawn Ng'iela
 image: /Images/blazor.png
 ---
 

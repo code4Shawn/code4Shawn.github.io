@@ -2,7 +2,6 @@
 title: Encryption - The Invisible Shield Protecting Our Digital World
 categories: [Encryption, Technology]
 tags: [Webapps, CyberSecurity, javascript, Python, technology]
-author: Shawn Ng'iela
 image: /Images/encryption.png
 ---
 

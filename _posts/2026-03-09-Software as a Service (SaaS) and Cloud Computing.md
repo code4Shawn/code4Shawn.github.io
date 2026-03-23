@@ -2,7 +2,6 @@
 title: Software as a Service (SaaS) and Cloud Computing
 categories: [Web Development, Software]
 tags: [SaaS, Cloud Computing, technology]
-author: Shawn Ng'iela
 image: /Images/Saas.jpg
 ---
 
